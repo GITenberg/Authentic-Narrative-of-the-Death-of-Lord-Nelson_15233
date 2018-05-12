@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5934
     wikipedia: http://en.wikipedia.org/wiki/William_Beatty_(surgeon)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15233#Authentic-Narrative-of-the-Death-of-Lord-Nelson
 gutenberg_bookshelf: Napoleonic(Bookshelf)
 gutenberg_issued: '2005-03-02'
 gutenberg_type: Text
